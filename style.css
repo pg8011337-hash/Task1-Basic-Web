@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+/* Header styling */
+.header {
+    background-color: #1877f2;
+    color: white;
+    padding: 30px;
+}
+
+/* Content section */
+.content {
+    margin-top: 40px;
+}
+
+.content img {
+    width: 250px;
+    border-radius: 10px;
+}
+
+/* Paragraph */
+.intro {
+    margin: 20px;
+    font-size: 16px;
+}
+
+/* Link */
+a {
+    color: #1877f2;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Button */
+button {
+    padding: 10px 25px;
+    background-color: #1877f2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
